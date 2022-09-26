@@ -1,5 +1,6 @@
 import create from "zustand";
 
+// this is amazing
 interface CountState {
     count: number;
     increment: () => void;
